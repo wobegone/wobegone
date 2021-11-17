@@ -28,6 +28,10 @@
 	· Hacking<br> 
 </p>
 
+<h3>Send me a mail!<h3>
+<p>
+	<a href="mailto:infinitopython@tech-center.com"><img src="https://img.shields.io/badge/Mail-0077B5?style=for-the-badge&logo=mail&logoColor=white" alt="Mail"></a>
+
 <h3>Stats</h3>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wobegone&theme=cobalt" alt="langs">
