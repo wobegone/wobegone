@@ -4,6 +4,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
   <a href="https://infinitopython.blogspot.com"><img src="https://img.shields.io/badge/Blogger-0077B5?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"></a>
+<a href="mailto:infinitopython@tech-center.com"><img src="https://img.shields.io/badge/mail-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black" alt="Mail"></a>
 
 </p>
 
@@ -28,9 +29,15 @@
 	· Hacking<br> 
 </p>
 
+<h3>Visit my blog</h3>
+<p>
+<a href="https://infinitopython.blogspot.com"><img src="https://img.shields.io/badge/Blogger-0077B5?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"></a>
+</p>
+
 <h3>Send me a mail!<h3>
 <p>
-	<a href="mailto:infinitopython@tech-center.com"><img src="https://img.shields.io/badge/Mail-0077B5?style=for-the-badge&logo=mail&logoColor=white" alt="Mail"></a>
+	<a href="mailto:infinitopython@tech-center.com"><img src="https://img.shields.io/badge/mail-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black" alt="Mail"></a>
+</p>
 
 <h3>Stats</h3>
 <p>
