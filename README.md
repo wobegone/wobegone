@@ -26,6 +26,7 @@
 <p>
 	· Python<br>
 	· Arduino<br>
+	· Raspberry Pi<br>
 	· Hacking<br> 
 </p>
 
